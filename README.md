@@ -20,6 +20,6 @@ While doing the tutorial things became a little more clear, and building meteor 
 
 
 
-![React Photo Album 1](reactPhotoAlbum1.png)
-![React Photo Album 2](reactPhotoAlbum2.png)
-![React Photo Album 3](reactPhotoAlbum3.png)
+![phone](meteorPhone.png)
+![cpu](meteorCPU.png)
+
