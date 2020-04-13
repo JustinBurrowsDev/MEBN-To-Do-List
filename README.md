@@ -19,7 +19,7 @@ While doing the tutorial things became a little more clear, and building meteor 
 * How to run a meteor application on an iOS simulator
 
 
-
-![phone](meteorPhone.png)
 ![cpu](meteorCPU.png)
+![phone](meteorPhone.png)
+
 
